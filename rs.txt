@@ -1,0 +1,8 @@
+Burger|2
+Wine|4
+Cheese|5
+Fondu|7
+French Fries|9
+Cold Drink|13
+Cookie|9
+Burrito|12
